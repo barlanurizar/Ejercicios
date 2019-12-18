@@ -1,0 +1,33 @@
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.exe
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.deps.json
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.runtimeconfig.json
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.runtimeconfig.dev.json
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.dll
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.pdb
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.AssemblyInfo.cs
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.dll
+C:\Users\barla\source\repos\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.pdb
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.exe
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.deps.json
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.runtimeconfig.json
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.runtimeconfig.dev.json
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.dll
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.pdb
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.AssemblyInfo.cs
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.dll
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.pdb
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.exe
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.deps.json
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.runtimeconfig.json
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.runtimeconfig.dev.json
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.dll
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\bin\Debug\netcoreapp3.0\ConsoleApp2_fase_2.pdb
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.AssemblyInfo.cs
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.dll
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp2_fase_2\ConsoleApp2_fase_2\obj\Debug\netcoreapp3.0\ConsoleApp2_fase_2.pdb

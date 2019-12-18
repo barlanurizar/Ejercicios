@@ -1,0 +1,22 @@
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.exe
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.deps.json
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.runtimeconfig.json
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.runtimeconfig.dev.json
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.dll
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.pdb
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.AssemblyInfo.cs
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.dll
+C:\Users\barla\source\repos\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.pdb
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.exe
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.deps.json
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.runtimeconfig.json
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.runtimeconfig.dev.json
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.dll
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\bin\Debug\netcoreapp3.0\ConsoleApp1_fase3.pdb
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.AssemblyInfo.cs
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.dll
+C:\Users\barla\source\repos\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase3\ConsoleApp1_fase3\obj\Debug\netcoreapp3.0\ConsoleApp1_fase3.pdb

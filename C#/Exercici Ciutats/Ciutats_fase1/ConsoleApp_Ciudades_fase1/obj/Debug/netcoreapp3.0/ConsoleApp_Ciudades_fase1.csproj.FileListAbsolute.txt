@@ -1,0 +1,21 @@
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.exe
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.deps.json
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.runtimeconfig.json
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.runtimeconfig.dev.json
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.dll
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.pdb
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.AssemblyInfo.cs
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.dll
+C:\Users\barla\source\repos\ConsoleApp_Ciudades_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.pdb
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.exe
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.deps.json
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.runtimeconfig.json
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.runtimeconfig.dev.json
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.dll
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\bin\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.pdb
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.AssemblyInfo.cs
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.dll
+C:\Users\barla\source\repos\Exercici ciutats\Ciutats_fase1\ConsoleApp_Ciudades_fase1\obj\Debug\netcoreapp3.0\ConsoleApp_Ciudades_fase1.pdb

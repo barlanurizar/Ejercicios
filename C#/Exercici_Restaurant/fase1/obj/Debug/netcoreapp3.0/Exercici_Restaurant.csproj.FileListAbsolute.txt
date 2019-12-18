@@ -1,0 +1,11 @@
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\bin\Debug\netcoreapp3.0\Exercici_Restaurant.exe
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\bin\Debug\netcoreapp3.0\Exercici_Restaurant.deps.json
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\bin\Debug\netcoreapp3.0\Exercici_Restaurant.runtimeconfig.json
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\bin\Debug\netcoreapp3.0\Exercici_Restaurant.runtimeconfig.dev.json
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\bin\Debug\netcoreapp3.0\Exercici_Restaurant.dll
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\bin\Debug\netcoreapp3.0\Exercici_Restaurant.pdb
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\obj\Debug\netcoreapp3.0\Exercici_Restaurant.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\obj\Debug\netcoreapp3.0\Exercici_Restaurant.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\obj\Debug\netcoreapp3.0\Exercici_Restaurant.AssemblyInfo.cs
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\obj\Debug\netcoreapp3.0\Exercici_Restaurant.dll
+C:\Users\barla\source\repos\Exercici_Restaurant\fase1\obj\Debug\netcoreapp3.0\Exercici_Restaurant.pdb
