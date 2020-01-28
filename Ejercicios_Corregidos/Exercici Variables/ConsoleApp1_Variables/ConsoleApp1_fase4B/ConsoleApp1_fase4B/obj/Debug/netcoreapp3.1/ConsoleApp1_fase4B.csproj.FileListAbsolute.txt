@@ -1,0 +1,11 @@
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\bin\Debug\netcoreapp3.1\ConsoleApp1_fase4B.exe
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\bin\Debug\netcoreapp3.1\ConsoleApp1_fase4B.deps.json
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\bin\Debug\netcoreapp3.1\ConsoleApp1_fase4B.runtimeconfig.json
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\bin\Debug\netcoreapp3.1\ConsoleApp1_fase4B.runtimeconfig.dev.json
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\bin\Debug\netcoreapp3.1\ConsoleApp1_fase4B.dll
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\bin\Debug\netcoreapp3.1\ConsoleApp1_fase4B.pdb
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\obj\Debug\netcoreapp3.1\ConsoleApp1_fase4B.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\obj\Debug\netcoreapp3.1\ConsoleApp1_fase4B.AssemblyInfo.cs
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\obj\Debug\netcoreapp3.1\ConsoleApp1_fase4B.dll
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\obj\Debug\netcoreapp3.1\ConsoleApp1_fase4B.pdb
+C:\Users\barla\source\repos\C#\Exercici Variables\ConsoleApp1_Variables\ConsoleApp1_fase4B\ConsoleApp1_fase4B\obj\Debug\netcoreapp3.1\ConsoleApp1_fase4B.csprojAssemblyReference.cache

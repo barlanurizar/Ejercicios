@@ -1,0 +1,33 @@
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.AssemblyInfo.cs
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.exe
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.deps.json
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.runtimeconfig.json
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.runtimeconfig.dev.json
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.dll
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.pdb
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.dll
+C:\Users\barla\source\repos\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.pdb
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.exe
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.deps.json
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.runtimeconfig.json
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.runtimeconfig.dev.json
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.dll
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.pdb
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.AssemblyInfo.cs
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.dll
+C:\Users\barla\source\repos\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.pdb
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.exe
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.deps.json
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.runtimeconfig.json
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.runtimeconfig.dev.json
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.dll
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\bin\Debug\netcoreapp3.0\ConsoleApp3_fase_3.pdb
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.AssemblyInfo.cs
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.dll
+C:\Users\barla\source\repos\C#\Exercici Lletres Repetides\ConsoleApp3_fase_3\ConsoleApp3_fase_3\obj\Debug\netcoreapp3.0\ConsoleApp3_fase_3.pdb

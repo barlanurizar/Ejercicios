@@ -1,0 +1,11 @@
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\bin\Debug\netcoreapp3.1\fase1B.exe
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\bin\Debug\netcoreapp3.1\fase1B.deps.json
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\bin\Debug\netcoreapp3.1\fase1B.runtimeconfig.json
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\bin\Debug\netcoreapp3.1\fase1B.runtimeconfig.dev.json
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\bin\Debug\netcoreapp3.1\fase1B.dll
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\bin\Debug\netcoreapp3.1\fase1B.pdb
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\obj\Debug\netcoreapp3.1\fase1B.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\obj\Debug\netcoreapp3.1\fase1B.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\obj\Debug\netcoreapp3.1\fase1B.AssemblyInfo.cs
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\obj\Debug\netcoreapp3.1\fase1B.dll
+C:\Users\barla\source\repos\C#\Exercici_Restaurant\fase1B\fase1B\obj\Debug\netcoreapp3.1\fase1B.pdb

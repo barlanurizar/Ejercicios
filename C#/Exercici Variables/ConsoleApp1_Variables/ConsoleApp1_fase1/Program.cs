@@ -14,7 +14,7 @@ namespace ConsoleApp1_Variables
             //Show by window the variables int concatenating them with "/" between each one of them.
             {
                 {
-                    int day = 5;
+                    int day = 1;
                     int month = 04;
                     int year = 1972;
 
