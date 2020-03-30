@@ -1,0 +1,13 @@
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.csprojAssemblyReference.cache
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.AssemblyInfo.cs
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\bin\Debug\netcoreapp3.1\Fase3.exe
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\bin\Debug\netcoreapp3.1\Fase3.deps.json
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\bin\Debug\netcoreapp3.1\Fase3.runtimeconfig.json
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\bin\Debug\netcoreapp3.1\Fase3.runtimeconfig.dev.json
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\bin\Debug\netcoreapp3.1\Fase3.dll
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\bin\Debug\netcoreapp3.1\Fase3.pdb
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.dll
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.pdb
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Linq\Fase3\Fase3\obj\Debug\netcoreapp3.1\Fase3.genruntimeconfig.cache
